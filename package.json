@@ -1,0 +1,19 @@
+{
+  "name": "node-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "script.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "naam": "node script.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.0.0",
+    "cz-jira-smart-commit": "^3.0.0",
+    "execa": "^4.0.2",
+    "inquirer": "^7.1.0"
+  }
+}
